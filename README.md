@@ -1,7 +1,7 @@
 # Three-In-One Game
 
 Created by Sai Aik Too Aung  
-Student ID: 6756027
+Student ID: 6746027
 
 A Unity project containing three mini-games accessible from one main menu.
 
